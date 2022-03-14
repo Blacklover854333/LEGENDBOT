@@ -49,12 +49,12 @@
       "required" :true
     },
     "YOUR_GROUP": {
-      "description": "Set Ur Group Username",
+      "description": "@quick_mcq",
       "value": "@Legend_Userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
-      "description": "Set Ur Channel Username",
+      "description": "@stranger_yarr",
       "value": "@Official_LegendBot",
       "required": false
     },
